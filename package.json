@@ -1,0 +1,7 @@
+{
+  "name": "static-page-testing",
+  "version": "1.0.0",
+  "dependencies": {
+    "reload": "^3.2.0"
+  }
+}
